@@ -2,7 +2,7 @@
 Aspiring aspiring game developer.
 
 ## Employment
-Software Developer
+Software Developer  
 United States
 
 ## Education
