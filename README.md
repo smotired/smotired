@@ -13,7 +13,7 @@ University of Utah
 - C# my GOAT
 - Typescript my GOAT
 - C++ my GOAT
-- Python (bro think's he's on the team)
+- Python (bro thinks he's on the team)
 
 ## Hobbies
 - Video games
